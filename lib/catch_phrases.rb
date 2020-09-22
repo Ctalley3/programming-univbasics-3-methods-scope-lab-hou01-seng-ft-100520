@@ -13,7 +13,7 @@ def link
   puts phrase = "It's Dangerous To Go Alone! Take This."
   
 def all_phrases
- puts out all of the previous catch phrases
+ status = all the other catch phrases 
  
 
 end
