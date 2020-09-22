@@ -10,6 +10,7 @@ end
   
 def link 
   puts phrase = 'It's Dangerous To Go Alone! Take This.'
+  phrase = 'It's Dangerous To Go Alone! Take This.'
 end 
 
 end
