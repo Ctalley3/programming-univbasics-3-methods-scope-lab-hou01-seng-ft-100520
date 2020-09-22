@@ -12,6 +12,7 @@ def link
   status = "It's Dangerous To Go Alone! Take This."
   puts phrase = "It's Dangerous To Go Alone! Take This."
   
-
+def all_phrases
+  puts out = all of the previous catch phrases 
 
 end
