@@ -1,6 +1,6 @@
 def mario
-  status = 'It's-a me, Mario!'
-  puts phrase
+ puts phrase = "It's-a me, Mario!"
+  phrase = "It's-a me, Mario!"
 end
 
 
