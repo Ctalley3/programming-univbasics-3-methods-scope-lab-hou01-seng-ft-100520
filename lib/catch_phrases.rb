@@ -14,5 +14,6 @@ def link
   
 def all_phrases
  puts out all of the previous catch phrases
+ 
 
 end
